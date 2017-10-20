@@ -2,7 +2,8 @@
 //
 //File Name: PalindromeTester.java
 //
-//Class Description: Driver class which will execute the logic in Palindrome.java
+//Class Description: Driver class which will execute the logic in Palindrome.java, 
+//prints out whether if it is a palindrome or not
 
 //import statements 
 import java.util.Scanner;
